@@ -1,0 +1,21 @@
+﻿{
+  Status: 200 OK,
+  Content: {
+    Headers: {
+      Content-Type: application/json; charset=utf-8
+    },
+    Value: {
+      items: [
+        {
+          id: Guid_1,
+          title: Groceries,
+          itemCount: 0,
+          completedCount: 0
+        }
+      ],
+      page: 1,
+      pageSize: 20,
+      totalCount: 1
+    }
+  }
+}

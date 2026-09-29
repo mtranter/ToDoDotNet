@@ -1,0 +1,17 @@
+﻿{
+  Status: 200 OK,
+  Headers: {
+    ETag: "2"
+  },
+  Content: {
+    Headers: {
+      Content-Type: application/json; charset=utf-8
+    },
+    Value: {
+      id: Guid_1,
+      title: Shopping,
+      createdAt: DateTimeOffset_1,
+      items: []
+    }
+  }
+}

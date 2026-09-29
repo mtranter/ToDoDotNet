@@ -1,0 +1,27 @@
+﻿{
+  Status: 200 OK,
+  Headers: {
+    ETag: "3"
+  },
+  Content: {
+    Headers: {
+      Content-Type: application/json; charset=utf-8
+    },
+    Value: {
+      id: Guid_1,
+      title: Groceries,
+      createdAt: DateTimeOffset_1,
+      items: [
+        {
+          id: Guid_2,
+          title: Milk,
+          dueDate: null,
+          isComplete: true,
+          createdAt: DateTimeOffset_2,
+          completedAt: DateTimeOffset_3,
+          isOverdue: false
+        }
+      ]
+    }
+  }
+}
